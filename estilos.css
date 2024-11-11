@@ -1,0 +1,106 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #555;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+    /* styles.css */
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    padding: 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 48px;
+    color: #ff69b4; /* Rosa */
+    margin: 0;
+}
+
+header p {
+    font-size: 18px;
+    color: #ddd;
+    margin-bottom: 20px;
+}
+
+header span {
+    font-size: 20px;
+    color: #ddd;
+    margin: 0 10px;
+}
+
+/* Estilos para el contenido principal */
+main {
+    padding: 20px;
+}
+
+/* Estilos para los artículos */
+article {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+article h2 {
+    font-size: 24px;
+    color: #ff69b4; /* Rosa */
+}
+
+article h3 {
+    font-size: 20px;
+    color: #ff69b4; /* Rosa */
+}
+
+article p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #ddd;
+}
+
+article img {
+    margin-right: 20px;
+    float: left;
+    border-radius: 10px;
+}
+
+/* Estilos para la lista ordenada */
+ol {
+    list-style-type: none;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+/* Estilos para la lista desordenada */
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #ff69b4; /* Rosa */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
